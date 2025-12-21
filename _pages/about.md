@@ -14,7 +14,7 @@ My research interests also extend to variable selection, mediation analysis, met
 
 Upcoming events
 ======
-1. Together with Dr. [Carroll, Raymond J.](https://scholars.library.tamu.edu/vivo/display/n032647a0/Persons/), Dr. [Donna Speigelman](https://ysph.yale.edu/profile/donna-spiegelman/), Dr. [Molin Wang](https://hsph.harvard.edu/profile/molin-wang/), we will give a short course on ``Measurement Error Models in Action: the Latest Methods and Their Applications in Nutrition and Environmental Health" at Eastern North American Region (ENAR) Annual Meeting, March 2026, and at Society for Epidemiologic Research (SER) Annual Meeting, June 2026.
-1. I will give a contributed talk on ``Learn-As-you-Go (LAGO) in Stepped Wedge Cluster Randomized Trials" at Eastern North American Region (ENAR) Annual Meeting, March 2026.
+1. Together with Dr. [Carroll, Raymond J.](https://scholars.library.tamu.edu/vivo/display/n032647a0/Persons/), Dr. [Donna Speigelman](https://ysph.yale.edu/profile/donna-spiegelman/), Dr. [Molin Wang](https://hsph.harvard.edu/profile/molin-wang/), we will give a short course on ``**Measurement Error Models in Action: the Latest Methods and Their Applications in Nutrition and Environmental Health**" at Eastern North American Region (ENAR) Annual Meeting, March 2026, and at Society for Epidemiologic Research (SER) Annual Meeting, June 2026.
+1. I will give a contributed talk on ``**Learn-As-you-Go (LAGO) in Stepped Wedge Cluster Randomized Trials**" at Eastern North American Region (ENAR) Annual Meeting, March 2026.
 
 
