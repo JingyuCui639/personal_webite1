@@ -10,14 +10,11 @@ I am currently a postdoctoral associate in the Department of Biostatistics at Ya
 
 I gained my Ph.D. in Statistics from Western University in London, Ontario, Canada, under the supervision of Dr. [Grace Y. Yi](https://fisher.stats.uwo.ca/faculty/yyi/), developing methods for high-dimensional imperfect data with measurement error and missing values. 
 
-My research interests encompass variable selection, mediation analysis, meta-analysis, clinical trials, and nonparametric methods.
+My research interests also extend to variable selection, mediation analysis, meta-analysis, clinical trials, and nonparametric methods. etc.
 
 Upcoming events
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Together with Dr. [Carroll, Raymond J.](https://scholars.library.tamu.edu/vivo/display/n032647a0/Persons/), Dr. [Donna Speigelman](https://ysph.yale.edu/profile/donna-spiegelman/), Dr. [Molin Wang](https://hsph.harvard.edu/profile/molin-wang/), we will give a short course on ``Measurement Error Models in Action: the Latest Methods and Their Applications in Nutrition and Environmental Health" at Eastern North American Region (ENAR) Annual Meeting, March 2026, and at Society for Epidemiologic Research (SER) Annual Meeting, June 2026.
+1. I will give a contributed talk on ``Learn-As-you-Go (LAGO) in Stepped Wedge Cluster Randomized Trials" at Eastern North American Region (ENAR) Annual Meeting, March 2026.
+
 
