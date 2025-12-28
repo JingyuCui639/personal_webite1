@@ -3,10 +3,8 @@ title: "COVID-19 impact on mental health."
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-# excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2022
 venue: 'BMC Medical Research Methodology'
-# slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://link.springer.com/article/10.1186/s12874-021-01411-w'
 citation: '\underline{Cui, J.}, Lu, J., Weng, Y., Yi, G. Y., and He, W. (2022). &quot;COVID-19 impact on mental health.&quot; <i>BMC Medical Research Methodology</i>, 22(15):1-11.'
 ---
