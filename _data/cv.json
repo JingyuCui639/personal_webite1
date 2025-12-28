@@ -3,8 +3,8 @@
     "name": "Your Sidebar Name",
     "email": "none@example.org",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://JingyuCui639.github.io",
+    "summary": "Currently employed at Yale School of Public Health",
     "location": {
       "address": "",
       "postalCode": "",
@@ -16,66 +16,55 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=7hqKH_gAAAAJ&hl=zh-CN"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/my-orcid?orcid=0000-0002-8073-1422"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "JingyuCui639",
+        "url": "https://github.com/JingyuCui639"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Yale School of Public Health",
+      "area": "Ph.D in Statistics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2019",
+      "endDate": "2024",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of New Brunswick",
+      "area": "M.S. in Statistics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2017",
+      "endDate": "2019",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [Python, R, Github, SAS, SQL],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Estimation and variable selection in multivariate regression with mixed measurement error and misclassification in covariates and missingness in responses.",
+      "publisher": "Electronic Journal of Statistics.",
+      "releaseDate": "2025"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
+      "name": "Multivariate regression with measurement error: bias analysis and estimation.",
+      "publisher": "Journal of Nonparametric Statistics",
+      "releaseDate": "2025",
       "website": "https://academicpages.github.io/files/paper2.pdf",
       "summary": "This paper is about the number 2. The number 3 is left for future work."
     },
