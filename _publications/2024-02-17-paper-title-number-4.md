@@ -3,7 +3,7 @@ title: "Multivariate regression with measurement error: bias analysis and estima
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
-date: 2024-02-17
+date: 2025
 venue: 'Journal of Nonparametric Statistics'
 paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/10485252.2025.2540308'
 citation: '\underline{Cui, J.} and Yi, G. Y. (2025). &quot;Multivariate regression with measurement error: bias analysis and estimation.&quot; <i>Journal of Nonparametric Statistics</i>, 37(4), 1257–1297.'
